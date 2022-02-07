@@ -7,4 +7,5 @@ This project was developed to generate a better compreension of how several feat
 ## Notes
 I recommend using Jupyter or Google Colab for visualization of this notebook. There are two versions of the notebook, English and Brazilian Portuguese. Suit yourselves!
 Data is saved in HTML (Data Folder)
+#
 ** Data extracted from DataCamp.com
