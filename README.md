@@ -1,5 +1,5 @@
 # Credit Card Predictions
-Data science project from inspecting, cleaning, preprocessing to choosing the best machine learning model performer.
+Data science project from inspecting, cleaning, preprocessing to choosing the best Machine Learning model performer.
 
 ## Overview
 This project was developed to generate a better compreension of how several features of a customer could interfere in credit card application approval.
